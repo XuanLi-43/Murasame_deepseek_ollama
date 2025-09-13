@@ -61,6 +61,8 @@ Murasame_Default.txt--- 默认设定。
 # live2d模型
 丛雨的live2d模型:https://www.bilibili.com/video/BV1mb4y1i7xu
 
+字体:JetBrainsMapleMono-Regular (懒的找别的，这个也不是不行)
+
 感谢@穿越电线 up主免费提供的模型
 
 本项目仅作为学习与练习使用, 游戏内的人物角色，bgm,背景归柚子社所有，本人仅为二创
